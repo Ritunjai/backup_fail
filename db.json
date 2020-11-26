@@ -1,0 +1,28 @@
+{
+  "BACKUP_FAILURE": [
+    {
+      "Client Name": "ADNOC_TF1_ASCS_198.18.10.123",
+      "Agent": "Linux File System",
+      "Failure Reason": "Services issue",
+      "Ticket ID": "",
+      "Remarks": "Issue has been resolved and backups are running fine. ",
+      "Analysis": ""
+    },
+    {
+      "Client Name": "ADNOC_TS1_ASCS_198.18.10.139",
+      "Agent": "Linux File System",
+      "Failure Reason": "Services issue",
+      "Ticket ID": "",
+      "Remarks": "Issue has been resolved and backups are running fine. ",
+      "Analysis": ""
+    },
+    {
+      "Client Name": "ADNOC_TS1_ERS_198.18.10.142",
+      "Agent": "Linux File System",
+      "Failure Reason": "Services issue",
+      "Ticket ID": "",
+      "Remarks": "Issue has been resolved and backups are running fine. ",
+      "Analysis": ""
+    }
+  ]
+}
